@@ -1,0 +1,9 @@
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\pc_adenis\Desktop\ProjetoUni\calculadora\calculadora\obj\Debug\calculadora.pdb
